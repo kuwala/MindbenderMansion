@@ -1,0 +1,25 @@
+To do list
+
+
+Important:
+
+-Have fun & be nice!
+-All three buttons work ( speeds)
+-E-stop works
+-All foods are detected
+-Points registering in software
+-10 point reveal
+-2:00 min timer
+-SFX On
+-Both conveyors moving
+-Software auto starts( MM_508 computer name)
+-Swap out barrel jacks to differentiate plugs (12v/5v)
+
+Nice to have:
+-Group Photo
+-Ferruls
+-Move USB away from high voltage
+-Switch USB extenders & p-clamp so they cant be unpluged from computer.
+-Clean-up & switch Counting board to pheonix connectors ( no tape)
+-If they do have a furman, swap out for old powerstrip (it might already be in place) 
+-Clean-up wire management as you see fit.
